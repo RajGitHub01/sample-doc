@@ -1,7 +1,11 @@
 # Sample document (Fitbit User Manual)
-
+==========================================
 # Table of Content
 --------------------------------------------  
+
+
+
+
 [Introduction](#Introduction)  
 [Getting Started](#Getting-Started)  
 [How to put on your Flex](#How-to-put-on-your-Flex)  
@@ -11,8 +15,12 @@
 [Charging your Flex](#Charging-your-Flex)  
 [What Fitbit Flex Tracks](#What-Fitbit-Flex-Tracks)  
 [Updating Fitbit Flex](#Updating-Fitbit-Flex)
-[Help](#Help)  
-===============================================
+[Help](#Help) 
+
+
+
+
+----------------------------------------------
 ## Introduction
 This is a sample document. The content has been developed as like user manual of a common product, Fitbit.
 ## Getting Started
