@@ -24,8 +24,7 @@ Fitbit is a fitness device that tracks your physical activities, to improve your
 1. Go to http://www.fitbit.com/setup
 2. Verify your system file (Mac/Window) and click the Download
 3. Install the app in your system
-## Setting up Fitbit Flex on a Mobile
-Device
+## Setting up Fitbit Flex on a Mobile Device
 The Fitbit Flex is capable of setting up and syncing with select mobile devices that support Bluetooth 4.0 technology. To see if your mobile device is compatible with your Flex, visit http://www.fitbit.com/devices.
 ## Pairing with Mobile Device
 Unlike most Bluetooth accessories, like bluetooth headsets, your Flex must be paired directly through the Fitbit App, not through the Settings. To pair the device, turn on your Mobile data and Bluetooth.
@@ -48,6 +47,6 @@ Your Flex tracks:
 
 Fitbit may release free updates for your Flex. You can update your flex using Fitbit Connect on your computer, or the Fitbit app on your mobile device. It is recommended that you keep your Flex updated. The latest feature enhancements and product improvements are made through updates.
 
-NOTE: *Updating your Flex can take up to five minutes and requires a minimum battery level. We recommend to charge your Flex prior to updating, or while the update is in progress.*
+> NOTE: *Updating your Flex can take up to five minutes and requires a minimum battery level. We recommend to charge your Flex prior to updating, or while the update is in progress.*
 ## Help
 Troubleshooting and assistance for your Fitbit Flex tracker can be found at http://help.fitbit.com
