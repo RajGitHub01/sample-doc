@@ -1,11 +1,8 @@
 # Sample document (Fitbit User Manual)
-==========================================
+-------------------------------------------
 # Table of Content
 --------------------------------------------  
-
-
-
-
+´´´
 [Introduction](#Introduction)  
 [Getting Started](#Getting-Started)  
 [How to put on your Flex](#How-to-put-on-your-Flex)  
@@ -16,10 +13,7 @@
 [What Fitbit Flex Tracks](#What-Fitbit-Flex-Tracks)  
 [Updating Fitbit Flex](#Updating-Fitbit-Flex)  
 [Help](#Help) 
-
-
-
-
+´´´
 ----------------------------------------------
 ## Introduction
 
