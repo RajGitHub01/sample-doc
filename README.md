@@ -20,13 +20,7 @@
 - Flex tracker
 - Charging cable
 - Wireless sync dongle
-- 1 small and 1 large wristband  
-
-![fit bit package](sample-doc/New-folder/images/Fit-Bit-package.jpg)
-
-
-        sample-doc/New folder/images/Fit Bit Package.jpg
-      
+- 1 small and 1 large wristband     
 ## How to put on your Flex
 1. **Choosing Wristband**     
    Your Flex comes with a large and a small wristband. Choose the wristband that fits most comfortably on your wrist. If you choose the small wristband, please note that you need to remove the clasp from the large wristband and put it into the small wristband
