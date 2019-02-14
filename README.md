@@ -14,7 +14,7 @@
 [Pairing with Mobile Device](#Pairing-with-Mobile-Device)  
 [Charging your Flex](#Charging-your-Flex)  
 [What Fitbit Flex Tracks](#What-Fitbit-Flex-Tracks)  
-[Updating Fitbit Flex](#Updating-Fitbit-Flex)
+[Updating Fitbit Flex](#Updating-Fitbit-Flex)  
 [Help](#Help) 
 
 
@@ -22,7 +22,17 @@
 
 ----------------------------------------------
 ## Introduction
+
+
+
+
+
 This is a sample document. The content has been developed as like user manual of a common product, Fitbit.
+
+
+
+
+
 ## Getting Started
 Fitbit is a fitness device that tracks your physical activities, to improve your health life style. Your Fitbit Flex Wireless Activity + Sleep Wristband box includes:
 - Flex tracker
